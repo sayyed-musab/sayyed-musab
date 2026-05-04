@@ -1,6 +1,6 @@
 # 💫 About Me
-👋 Hi, I’m @sayyed-musab<br>👀 I’m interested in Full Stack Development<br>
-👨‍💻 All of my projects are available at [musabsayyed.vercel.app](https://musabsayyed.vercel.app)<br><br>
+👋 Hi, I’m @sayyed-musab<br>💬 Ask me about Web & AI<br><br>🤝 I’ m looking to collaborate on interesting projects<br>
+👨‍💻 All of my projects are available at [musabsayyed.dev](https://musabsayyed.dev)<br><br>
 
 
 ## 🌐 Socials
