@@ -1,5 +1,5 @@
 # 💫 About Me
-👋 Hi, I’m @sayyed-musab<br>💬 Ask me about Web & AI<br><br>🤝 I’ m looking to collaborate on interesting projects<br>
+👋 Hi, I’m @sayyed-musab<br>💬 Ask me about Web & AI<br>🤝 I’ m looking to collaborate on interesting projects<br>
 👨‍💻 All of my projects are available at [musabsayyed.dev](https://musabsayyed.dev)<br><br>
 
 
